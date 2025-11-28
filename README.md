@@ -1,10 +1,12 @@
-HandiCraft Hub – Supporting Local Artisans
-A platform designed to support local handicraft artisans by helping them showcase and sell their handmade products online.
+HandiCraft Hub – Supporting Local Artisans.
+HandiCraft Hub is a web-based platform designed to help local handicraft artisans showcase and promote their handmade products online. Many small artisans face difficulties reaching customers due to limited digital knowledge, and this project aims to bridge that gap. By providing a simple and visually appealing website, we empower artisans to present their skills, creativity, and products to a wider audience.
 
-HandiCraft Hub is a web-based platform created to help local handicraft artisans showcase and sell their handmade products online. Many small-scale artisans struggle to promote their products digitally, so this project provides them an easy and accessible way to reach a wider audience.
-The website includes various categories like shawls, bags, pottery, wooden crafts, and traditional artwork, each displayed with high-quality images for better visibility.
+The platform highlights a variety of traditional and handmade items including shawls, pottery, bags, wooden crafts, metal artwork, and decorative pieces. Each product is represented with clear and high-quality images to help customers appreciate the details and craftsmanship behind every item. The website’s layout is intentionally kept clean, minimalistic, and product-focused to ensure smooth navigation.
 
-Built using HTML and CSS, the platform offers a clean, responsive, and user-friendly interface suitable for both sellers and buyers. The goal of this project is to preserve traditional art, promote cultural craftsmanship, and create new opportunities for local artisans.
-Users can browse product categories, view detailed images, and explore different handicraft collections through a simple and attractive layout.
+Built entirely using HTML and CSS, the website is lightweight and loads quickly on all devices. Its responsive design ensures that users can browse comfortably on mobile phones, tablets, and desktops. The project demonstrates how basic web technologies can be used to create meaningful digital solutions for real-world needs.
 
-This project was developed as a group effort to support artisan communities and demonstrate how technology can empower small businesses. It can be further enhanced with features like seller login, cart system, or payment integration in future updates.
+One of the key objectives of HandiCraft Hub is to promote traditional art forms and celebrate the hard work of artisans who preserve cultural heritage. Through this platform, buyers can explore various categories, understand the uniqueness of handmade items, and support local talent by choosing handcrafted products.
+
+This project was created as part of a group collaboration, combining efforts in design, development, and content organization. It reflects the importance of teamwork as well as the potential of technology in uplifting small businesses. The site can be expanded in the future with features like seller dashboards, product search, filters, cart functionality, authentication, and payment integration, making it a complete online marketplace.
+
+Overall, HandiCraft Hub is not just a college project—it is a step toward encouraging people to support artisans and acknowledge the beauty of handmade craftsmanship.
