@@ -1,4 +1,6 @@
 HandiCraft Hub – Supporting Local Artisans.
+
+
 HandiCraft Hub is a web-based platform designed to help local handicraft artisans showcase and promote their handmade products online. Many small artisans face difficulties reaching customers due to limited digital knowledge, and this project aims to bridge that gap. By providing a simple and visually appealing website, we empower artisans to present their skills, creativity, and products to a wider audience.
 
 The platform highlights a variety of traditional and handmade items including shawls, pottery, bags, wooden crafts, metal artwork, and decorative pieces. Each product is represented with clear and high-quality images to help customers appreciate the details and craftsmanship behind every item. The website’s layout is intentionally kept clean, minimalistic, and product-focused to ensure smooth navigation.
